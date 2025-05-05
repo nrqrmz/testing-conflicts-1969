@@ -8,3 +8,4 @@ ID
 , Orders_count
 FROM `data-analytics-bootcamp-363212.bolk.customers`
 where gender <> '2003'
+ORDER BY Orders_count DESC
